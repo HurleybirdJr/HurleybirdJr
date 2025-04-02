@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: HurleybirdJr/metrics@latest
+      - uses: HurleybirdJr/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
