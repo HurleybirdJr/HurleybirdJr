@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -239,14 +239,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="662.3255076259876" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="662.3255076259876" y="0" width="212.1165780717624" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="874.44208569775" y="0" width="14.839827297243783" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="889.2819129949938" y="0" width="13.40587570981623" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="902.68778870481" y="0" width="7.941414495565743" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="910.6292032003759" y="0" width="5.8523983934810095" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="916.4816015938569" y="0" width="2.6301498039443416" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="919.1117513978012" y="0" width="0.8882486021988012" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="662.3243508758142" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="662.3243508758142" y="0" width="212.11620761058333" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="874.4405584863974" y="0" width="14.839801379515107" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="889.2803598659126" y="0" width="13.405852296481134" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="902.6862121623936" y="0" width="7.943007404059953" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="910.6292195664537" y="0" width="5.852388172278929" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="916.4816077387326" y="0" width="2.630145210392973" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="919.1117529491256" y="0" width="0.8882470508743951" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>babycommando/nightride-cli</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nightride FM - the synthwaviest radio now inside your terminal! Hackerman!!</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chylex/Discord-History-Tracker</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Desktop app &amp; browser script that saves Discord chat history into a file, and an offline viewer that displays the file.</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reFX/JUCE</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The JUCE cross-platform C++ framework</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiamKrenn/beltmatic-calculator</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -514,7 +514,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2025, 03:23:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 03:23:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
